@@ -6,10 +6,10 @@
 - État : _en développement_
 
 ## À propos du projet
-- 
+- SITE PRINCIPAL : https://drallen.super.site
 
 ## Les Mini-jeux
 ### SPANGAMES
-- WIKI : https://spangames.super.site
+- WIKI : https://drallen.super.site/spangames
 ### ?????
 -
